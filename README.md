@@ -1,4 +1,4 @@
-Performing Face Mask Detection using Open-CV Python
+Performing Face Mask Detection using  Python
 
 Face Mask Detector Project using concept of OpenCV, Keras/TensorFlow, and Deep Learning etc.
 
